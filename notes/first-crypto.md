@@ -21,7 +21,7 @@ Pi is a new cryptocurrency designed with people like me in mind ⤵️
 
 Here's my understanding of it:
 
-The coin is now in an early phase and without monetary value \(yet\), which means that **you can acquire it for free, via "mining", which in practical terms means clicking a button inside the app every 24 hours.** Btw, mining doesn't require the app to be open, drain the battery, or, from what I understand, it doesn't have a big negative impact on the environment like Bitcoin. So far, so good!
+The coin is now in an early phase and without monetary value \(yet\), which means that **you can acquire it for free, via "mining", which in practical terms means clicking a button inside the app every 24 hours.** Btw, mining doesn't require the app to be open, and, from what I understand, it doesn't have a big negative impact on the environment like Bitcoin. So far, so good!
 
 ![I love how easy they make it.](../.gitbook/assets/2021-04-02-11.42.31%20%281%29.jpg)
 
