@@ -35,6 +35,7 @@
 
 ## Notes
 
+* [First Experience With Crypto](notes/first-crypto.md)
 * [Habit vs Practice](notes/habit-vs-practice.md)
 * [Noncoercive Productivity](notes/noncoercive-productivity.md)
 * [Smoothie Bowl Recipes](notes/smoothie-bowls.md)
