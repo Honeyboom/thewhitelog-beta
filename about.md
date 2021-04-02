@@ -8,7 +8,7 @@ description: Creating notes on living a meaningful life.
 
 Hello there, wonderful human 👋
 
-We're Silvia and Michal. We live in a small island in the [Azores](https://goo.gl/maps/LiZz2dd2TRfrMqVA8) where we are [building a community](https://app.gitbook.com/@heymichal/s/pico/congregation), learning how to live more sustainably, running an online business where we help people [be consistent with important life practices](https://beta.thewhitelog.com/projects/year-of-practice), and having lots of fun playing in the forest and swimming in the ocean.
+We're Silvia and Michal. We live in a small island in the [Azores](https://goo.gl/maps/LiZz2dd2TRfrMqVA8) where we are [building a community](projects/microsolidarity-in-pico.md), learning how to live more sustainably, running an online business where we help people [be consistent with important life practices](https://beta.thewhitelog.com/projects/year-of-practice), and having lots of fun playing in the forest and swimming in the ocean.
 
 **The White Log is the place where we're documenting how we do all of this,** and sharing resources and inspiration to help you live your own version of a meaningful life.
 
