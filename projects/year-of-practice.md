@@ -7,7 +7,7 @@ description: A year-long habit-building course in cohorts.
 {% embed url="https://yearofpractice.carrd.co" %}
 
 {% hint style="info" %}
-This course is currently ongoing and therefore not opened for enrollment. We're offering a shorter [Habit Sprint](https://habitsprint.carrd.co) if you're interested in a similar program.
+This course is currently ongoing and therefore not opened for enrollment. Join our [newsletter](../newsletter.md) to hear about our next facilitated course.
 {% endhint %}
 
 ### Format
