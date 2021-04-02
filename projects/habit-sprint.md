@@ -9,7 +9,7 @@ description: >-
 {% embed url="https://habitsprint.carrd.co" %}
 
 {% hint style="info" %}
-**The course is currently open for enrollment**. The spaces are limited. Start on the 29th of March 2021.
+The course is currently ongoing and therefore closed for enrollment. If you want to hear about our facilitated courses, join our [newsletter](../newsletter.md).
 {% endhint %}
 
 ### Context
@@ -98,10 +98,4 @@ Note that **our workshops are not passive presentations**. We deliver our conten
 It's the first time we're experimenting with a [sliding scale](../notes/pricing-models.md) pricing, to make this course available to people with different financial means. We feel that this model aligns more with our core values.
 
 ![](../.gitbook/assets/screenshot-2021-03-06-at-09.48.59.png)
-
-\*\*\*
-
-{% hint style="info" %}
-The registrations are still open. You can [**enroll here**](https://habitsprint.carrd.co).
-{% endhint %}
 
