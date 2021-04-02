@@ -31,7 +31,7 @@ I've set a daily alarm to ping me at 11:40 to do some mining ⛏. It always make
 
 The amount of Pi you can mine decreases with the amount of people joining to protect the scarcity of the coin. Eventually it will drop to zero. I guess I'm an "early adopter", hehe.
 
-Pi has a great built-in sharing mechanism, creating win-win incentives for people within the network and new participants: faster mining and extra coins. It's a common strategy, and it works – my friend shared it with me, and I shared it further. Why not?
+Pi has a great built-in sharing mechanism, creating win-win incentives for people within the network and new participants: faster mining and extra coins. It's a common spreading strategy, and it works – my friend shared it with me, and I shared it further. Why not?
 
 Basically, **I click one button per day, and if things go well, I might get wealth in the future.** And if not, I've wasted 5 sec per day, which doesn't feel like a big risk. Let's see how it goes 🌱.
 
