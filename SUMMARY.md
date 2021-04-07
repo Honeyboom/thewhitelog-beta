@@ -3,6 +3,7 @@
 * [Hi](README.md)
 * [About](about.md)
 * [Projects](projects/README.md)
+  * [100 Drawings](projects/100-drawings.md)
   * [JournalSmarter](projects/journalsmarter.md)
   * [Microsolidarity in Pico](projects/microsolidarity-in-pico.md)
   * [Mind Juggling](projects/mindjuggling.md)
