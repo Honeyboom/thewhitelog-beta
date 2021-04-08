@@ -52,4 +52,5 @@
 * [Log Operating Manual](notes/log-operating-manual.md)
 * [Fear is the Enemy of Life](notes/fear-is-the-enemy-of-life.md)
 * [Farming 101 🌾](notes/farming-101.md)
+* [Digital Stack](notes/digital-stack.md)
 
